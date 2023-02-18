@@ -74,7 +74,6 @@ void searchGrade(vector<string> name,vector<int> score,vector<char> grade,string
             }else if(i == name.size()-1 && count==0){
                 cout << "Cannot found.";
             }
-
     }
 
     cout << "---------------------------------\n";
